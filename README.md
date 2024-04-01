@@ -27,3 +27,8 @@ This project includes automated testing scripts for the login function of a sale
 ● Log out of the above account if logged in successfully.
 
 ● Take a screenshot if login fails and export the report.
+## Used By
+
+This project is used by the following companies:
+
+- FUNIX
